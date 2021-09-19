@@ -10,10 +10,10 @@ useEffect(() => {
     if (count > 5000){
         alert(`Mau beli pulsa ${count}?, Sipp gan!`);
     }
-    else if (count < 0){
+    else if (count < 5000){
         alert(`Mau beli pulsa ${count}?, Terlalu dikit gan`);
     }
-    else if (count == 0){
+    else if (count == 5000){
         alert(`Mau beli pulsa ${count}?, Terlalu dikit gan`);
     }
 }, [count]);
