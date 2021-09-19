@@ -12,19 +12,19 @@ export default function Usestate() {
       setShowImage(!showImage);
     };
     const words = [{
-        text: 'Hello there',
+        text: 'Wesmbuh',
         key: 1
       },
       {
-        text: 'Nice to meet you',
+        text: 'Gatau',
         key: 2
       },
       {
-        text: 'Are u ok?',
+        text: 'GW stuck,',
         key: 3
       },
       {
-        text: 'See you later',
+        text: 'Edi ngerjain sendiri, and stuck. jadinya ya gini',
         key: 4
       }
     ];
